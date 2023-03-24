@@ -98,6 +98,17 @@ export const VALIDATOR_COMMUNITY = [
     },
   },
   {
+    name: 'DigfurChain',
+    thumbnail: 'DigfurChain',
+    bio: 'Digfur Chain',
+    email: 'DFCAIRL@163.com',
+    website: 'https://github.com/digfur',
+    validators: {
+      polkadot: [],
+      kusama: [],
+    },
+  },
+  {
     name: 'Dionysus🍇',
     thumbnail: 'Dionysus',
     bio: 'Independent secure rigorously monitored validation service for Polkadot and Kusama Networks operated by Web3 researchers and engineers with a proven record in running reliable secure infrastructure.',
