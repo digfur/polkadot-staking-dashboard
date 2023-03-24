@@ -101,7 +101,7 @@ export const VALIDATOR_COMMUNITY = [
     name: 'DigfurChain',
     thumbnail: 'DigfurChain',
     bio: 'Digfur Chain',
-    email: 'DFCAIRL@163.com',
+    email: 'DigfurChain@outlook.com',
     twitter: '@DigfurC35589',
     website: 'https://github.com/digfur',
     validators: {
